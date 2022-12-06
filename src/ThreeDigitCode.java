@@ -14,6 +14,4 @@ public class ThreeDigitCode {
         }
         System.out.println("There are " + uniqueCode + " unique numbers" );
     }
-
-
 }
